@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**tonislavkolev9/tonislavkolev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tonislav**, a Computer Science student passionate about building high-quality software and continuously expanding my knowledge across computer science.
 
-Here are some ideas to get you started:
+Currently building a **2D Physics Engine** from scratch in modern C++ using **OpenGL**, **GLFW**, and **CMake** to deepen my understanding of graphics programming and engine architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+C++ • OpenGL • GLFW • GLAD • CMake • Git
+
+## Currently Learning
+
+- Engine Architecture
+- Modern C++
+- Physics Simulation
+- Rendering
