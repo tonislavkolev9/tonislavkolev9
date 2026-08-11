@@ -6,7 +6,7 @@ Currently building a **2D Physics Engine** from scratch in modern C++ using **Op
 
 ## Tech
 
-C++ • OpenGL • GLFW • GLAD • CMake • Git
+C++ • JavaScript • HTML • CSS • OpenGL • GLFW • GLAD • CMake • Git
 
 ## Currently Learning
 
